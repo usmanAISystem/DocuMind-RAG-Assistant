@@ -22,7 +22,7 @@ A professional RAG (Retrieval-Augmented Generation) based AI assistant that answ
 
 ### ⚙️ How to Run Locally
 1. Clone the repo:
-   `git clone https://github.com/usmanAISystem/DocuMind-RAG-Assistant.git`
+   git clone https://github.com/usmanAISystem/DocuMind-RAG-Assistant.git
 
 2. Install requirements:
    `pip install -r requirements.txt`
@@ -34,4 +34,4 @@ A professional RAG (Retrieval-Augmented Generation) based AI assistant that answ
    `uvicorn main:app --reload`
 
 ### 👨‍💻 Author
-**Usman** - AI Student | RAG Developer
+**Muhammad Usman** 
