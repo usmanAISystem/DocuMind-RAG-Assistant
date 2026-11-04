@@ -2,14 +2,14 @@
 
 A professional RAG (Retrieval-Augmented Generation) based AI assistant that answers questions from your own PDF documents using FastAPI, LangChain, FAISS & Google Gemini.
 
-
+YouTube Video Link 🔗 https://youtu.be/3YTzWOPRhlw
 
 
 ### ✨ Features
 -  Answers ONLY from your PDF (No Hallucination)
 -  ChatGPT-like Word-by-Word Typing Effect
 -  FastAPI Backend + FAISS Vector Database
--  Google Gemini 1.5 Flash LLM
+-  Google Gemini 3.5 Flash LLM
 -  Clean & Responsive UI
 
 ### 🛠️ Tech Stack
