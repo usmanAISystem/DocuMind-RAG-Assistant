@@ -1,3 +1,11 @@
+---
+title: RAG Knowledge Bot
+emoji: 📚
+colorFrom: blue
+colorTo: green
+sdk: docker
+app_port: 7860
+---
 # 🧠 DocuMind - RAG Knowledge Assistant
 
 A professional RAG (Retrieval-Augmented Generation) based AI assistant that answers questions from your own PDF documents using FastAPI, LangChain, FAISS & Google Gemini.
